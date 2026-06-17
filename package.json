@@ -17,6 +17,9 @@
   "main": "full-icu.js",
   "author": "Steven R. Loomis <srl295@gmail.com>",
   "license": "Unicode-DFS-2016",
+  "publishConfig": {
+    "@dps-es:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nodejs/full-icu-npm.git"
